@@ -51,7 +51,7 @@
 
 ## How to setup this project on your local machine
 
- 1. Clone This Project `git clone https://github.com/darsh295/Food-demand-forecasting-and-inventory-management.git`
+ 1. Clone This Project `git clone https://github.com/darshanbhavsar01/Food-demand-forecasting-and-inventory-management.git`
  2. Go to Project Directory
  3. Create a Virtual Environment `python3 -m venv env`
  4. Activate Virtual Environment `env/Scripts/activate`
